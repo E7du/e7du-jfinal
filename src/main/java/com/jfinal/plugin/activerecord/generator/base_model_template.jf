@@ -1,6 +1,6 @@
 package #(baseModelPackageName);
 
-import com.jfinal.ext.plugin.activerecord.ModelExt;
+import com.jfinal.plugin.activerecord.Model;
 import com.jfinal.plugin.activerecord.IBean;
 
 /**
